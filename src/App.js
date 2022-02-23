@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import { Button } from 'antd';
 import './App.css';
 
 function App() {
@@ -22,4 +23,10 @@ function App() {
   );
 }
 
-export default App;
+const App2 = () => (
+  <div className="App">
+    <Button type="primary">Button</Button>
+  </div>
+);
+
+export default App2;
