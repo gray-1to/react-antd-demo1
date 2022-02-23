@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"User_Group_id":{"$numberInt":"1"},"_modifiedAt":{"$numberInt":"1"}},"name":"idx1"}],"uuid":"7bf6c7ad393c4f0c9935aa5c980d4449","collectionName":"App3_Bookmark","type":"collection"}

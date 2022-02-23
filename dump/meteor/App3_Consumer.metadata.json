@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"User_Group_id":{"$numberInt":"1"},"_modifiedAt":{"$numberInt":"1"}},"name":"idx1"}],"uuid":"480b36b1c212412a886cc061978a83b7","collectionName":"App3_Consumer","type":"collection"}

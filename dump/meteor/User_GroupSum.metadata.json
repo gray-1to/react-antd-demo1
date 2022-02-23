@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"091fd823f1e549f390289a30cda6cdac","collectionName":"User_GroupSum","type":"collection"}
